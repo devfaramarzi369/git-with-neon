@@ -6,3 +6,7 @@ body{
    align-items: center;
    height: 369px;
    }
+   header{
+      background-color: red;
+      width: 369px;
+   }
